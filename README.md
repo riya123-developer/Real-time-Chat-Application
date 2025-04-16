@@ -18,6 +18,7 @@ Running the Application:
 1. Start the server: node server.js
 2. Navigate to the client directory: cd client
 3. Start the client: npm start
+   
 This will get your real-time chat application up and running!
 
 #  Output Of The Task
