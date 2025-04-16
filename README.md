@@ -12,7 +12,7 @@
 
 *Mentor Name*: Neela Santhosh
 
-*Description of Task*: "Real-time Chat Application built with Node.js, Express, WebSockets, and React. This project demonstrates how to create a responsive chat interface and handle real-time messaging between clients."
+*Description of Task*: "Real-time Chat Application built with Node.js, Expressjs, javascript, WebSockets, and React.js. This project demonstrates how to create a responsive chat interface and handle real-time messaging between clients."
 
 Running the Application:
 1. Start the server: node server.js
